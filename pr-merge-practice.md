@@ -25,3 +25,4 @@ This file records the requested pull request merge practice using the existing t
 - Practice update 021 of 100.
 - Practice update 022 of 100.
 - Practice update 023 of 100.
+- Practice update 024 of 100.
